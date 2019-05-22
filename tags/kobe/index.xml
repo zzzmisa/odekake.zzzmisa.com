@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kobe on Misa&#39;s Odekake Blog</title>
+    <link>http://192.168.3.11/tags/kobe/</link>
+    <description>Recent content in Kobe on Misa&#39;s Odekake Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://192.168.3.11/tags/kobe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yuge Farm</title>
+      <link>http://192.168.3.11/yuge-farm/</link>
+      <pubDate>Sun, 23 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.3.11/yuge-farm/</guid>
+      <description>I went to the Yuge Farm in the northern Kobe. We can see cows closely in the farm. When I visited, there was a baby cow which was born a week before. I was surprised that he was great in size in spite of being only one week old. Then, the milk there was very very delicious! It was quite different from the one in grocery stores. Besides, different from</description>
+    </item>
+    
+    <item>
+      <title>Cafe Poko no Mori, a cafe where you can meet birds</title>
+      <link>http://192.168.3.11/torimi-cafe/</link>
+      <pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.3.11/torimi-cafe/</guid>
+      <description>&amp;ldquo;Torimi&amp;rdquo; means bird watching. We can meet many kinds of small birds. It is near Oji Zoo. We went there after visiting the zoo. Touching birds wasn&amp;rsquo;t allowed in this cafe, unlike other bird cafes. However, through the glass, birds came near me! My favorite type of birds is cockatiels, but he was very active and restless, so it was difficult to take pictures. Both drinks and sweets were related</description>
+    </item>
+    
+  </channel>
+</rss>

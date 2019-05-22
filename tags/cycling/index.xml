@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cycling on Misa&#39;s Odekake Blog</title>
+    <link>http://192.168.3.11/tags/cycling/</link>
+    <description>Recent content in Cycling on Misa&#39;s Odekake Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://192.168.3.11/tags/cycling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Okunoshima &#34;Rabbit Island&#34;</title>
+      <link>http://192.168.3.11/okunoshima-island/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.3.11/okunoshima-island/</guid>
+      <description>I went to Okunoshima known as &amp;ldquo;Rabbit Island&amp;rdquo;. To the island, ships are in service from the mainland or Omishima Island in Shimanami Kaido Line, and I crossed over from the latter. Many rabbits live on the island, so tourists enjoy with rabbits such as giving food and taking pictures. They are wild, but very friendly! The size of island is small, so on foot is enough to looking around.</description>
+    </item>
+    
+  </channel>
+</rss>
