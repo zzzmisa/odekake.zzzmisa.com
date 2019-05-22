@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lunch on Misa&#39;s Odekake Blog</title>
-    <link>http://192.168.3.11/tags/lunch/</link>
+    <link>https://odekake.zzzmisa.com/tags/lunch/</link>
     <description>Recent content in Lunch on Misa&#39;s Odekake Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://192.168.3.11/tags/lunch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://odekake.zzzmisa.com/tags/lunch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Takoyaki restaurant Takonotetsu</title>
-      <link>http://192.168.3.11/takonotetsu/</link>
+      <link>https://odekake.zzzmisa.com/takonotetsu/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.3.11/takonotetsu/</guid>
+      <guid>https://odekake.zzzmisa.com/takonotetsu/</guid>
       <description>I was with guests from Tokyo, so we ate Takoyaki which is a local food in Osaka. As far as I know, in the Umeda area (around Osaka station), only the &amp;ldquo;Takonotetsu&amp;rdquo; (Takoyaki restaurant) enables us to roast Takoyaki by ourselves. There are two Takonotetsu in the Umeda area. The Takonotetsu I went to is the Marubiru Shop. When I checked in the dictionary, the English name of Takoyaki is</description>
     </item>
     
