@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flower on Misa&#39;s Odekake Blog</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Flower on Misa&#39;s Odekake Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Jul 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://odekake.zzzmisa.com/tags/flower/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 09 Jul 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://odekake.zzzmisa.com/tags/flower/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hydrangea field in Ohno Alps land</title>
       <link>https://odekake.zzzmisa.com/hydrangea-field-in-ohno-alps-land/</link>

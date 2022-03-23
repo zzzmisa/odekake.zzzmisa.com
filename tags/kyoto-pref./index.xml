@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kyoto Pref. on Misa&#39;s Odekake Blog</title>
     <link>https://odekake.zzzmisa.com/tags/kyoto-pref./</link>
     <description>Recent content in Kyoto Pref. on Misa&#39;s Odekake Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 16 Aug 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://odekake.zzzmisa.com/tags/kyoto-pref./index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://odekake.zzzmisa.com/tags/kyoto-pref./index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Toro Nagashi Festival at Hirosawa Pond</title>
       <link>https://odekake.zzzmisa.com/toro-nagashi-festival-in-hirosawa-pond/</link>

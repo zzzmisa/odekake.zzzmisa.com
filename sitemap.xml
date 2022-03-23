@@ -1,263 +1,137 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://odekake.zzzmisa.com/everlast_notebook/</loc>
     <lastmod>2017-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/amagasaki-factory-night-view/</loc>
-    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/toro-nagashi-festival-in-hirosawa-pond/</loc>
-    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/azuchi-castle/</loc>
-    <lastmod>0017-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/kawachi-wind-cave/</loc>
-    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tai-no-tai/</loc>
-    <lastmod>2017-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/takonotetsu/</loc>
-    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/yuge-farm/</loc>
-    <lastmod>2017-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/hydrangea-field-in-ohno-alps-land/</loc>
-    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/aramaki-rose-park/</loc>
-    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tatsuta-jam/</loc>
-    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/great-zelkova-tree-of-noma/</loc>
-    <lastmod>2017-08-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/okunoshima-island/</loc>
-    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/mino-fall/</loc>
-    <lastmod>2017-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tojinbo-cliffs/</loc>
-    <lastmod>2017-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/torimi-cafe/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/owl-cafe-crew/</loc>
-    <lastmod>2017-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/about/</loc>
-    <lastmod>2017-08-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/amagasaki/</loc>
-    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/bird/</loc>
-    <lastmod>2017-08-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/castle/</loc>
-    <lastmod>0017-08-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/cycling/</loc>
-    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/dinner/</loc>
-    <lastmod>2017-08-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/event/</loc>
-    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/flower/</loc>
-    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/fukui-pref./</loc>
-    <lastmod>2017-08-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/hiroshima-pref./</loc>
-    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/hyogo-pref./</loc>
-    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/ikeda/</loc>
-    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/inagawa/</loc>
-    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/itami/</loc>
-    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/kobe/</loc>
-    <lastmod>2017-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/kyoto-pref./</loc>
-    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/lunch/</loc>
-    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/mino/</loc>
-    <lastmod>2017-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://odekake.zzzmisa.com/</loc>
-    <lastmod>2017-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/night-view/</loc>
-    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/nose/</loc>
-    <lastmod>2017-08-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/osaka-pref./</loc>
-    <lastmod>2017-08-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/please-check-my-english/</loc>
-    <lastmod>2017-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/shiga-pref./</loc>
-    <lastmod>0017-08-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/shimanami/</loc>
-    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://odekake.zzzmisa.com/tags/shopping/</loc>
     <lastmod>2017-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://odekake.zzzmisa.com/tags/</loc>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/amagasaki/</loc>
     <lastmod>2017-08-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://odekake.zzzmisa.com/tags/teatime/</loc>
-    <lastmod>2017-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/amagasaki-factory-night-view/</loc>
+    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/night-view/</loc>
+    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/event/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/toro-nagashi-festival-in-hirosawa-pond/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/azuchi-castle/</loc>
+    <lastmod>0017-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/castle/</loc>
+    <lastmod>0017-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/kawachi-wind-cave/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tai-no-tai/</loc>
+    <lastmod>2017-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/dinner/</loc>
+    <lastmod>2017-08-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://odekake.zzzmisa.com/tags/umeda/</loc>
     <lastmod>2017-08-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/lunch/</loc>
+    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/takonotetsu/</loc>
+    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/kobe/</loc>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/teatime/</loc>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/yuge-farm/</loc>
+    <lastmod>2017-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/flower/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/hydrangea-field-in-ohno-alps-land/</loc>
+    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/inagawa/</loc>
+    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/aramaki-rose-park/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/ikeda/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/itami/</loc>
+    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tatsuta-jam/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/bird/</loc>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/great-zelkova-tree-of-noma/</loc>
+    <lastmod>2017-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/nose/</loc>
+    <lastmod>2017-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/cycling/</loc>
+    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/okunoshima-island/</loc>
+    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/shimanami/</loc>
+    <lastmod>2017-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/mino/</loc>
+    <lastmod>2017-08-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/mino-fall/</loc>
+    <lastmod>2017-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/please-check-my-english/</loc>
+    <lastmod>2017-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tojinbo-cliffs/</loc>
+    <lastmod>2017-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/torimi-cafe/</loc>
+    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/owl-cafe-crew/</loc>
+    <lastmod>2017-08-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/about/</loc>
+    <lastmod>2017-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/fukui-pref./</loc>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/hiroshima-pref./</loc>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/hyogo-pref./</loc>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/kyoto-pref./</loc>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/osaka-pref./</loc>
+  </url><url>
+    <loc>https://odekake.zzzmisa.com/tags/shiga-pref./</loc>
   </url>
-  
 </urlset>

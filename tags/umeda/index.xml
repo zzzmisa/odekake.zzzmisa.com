@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Umeda on Misa&#39;s Odekake Blog</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Umeda on Misa&#39;s Odekake Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://odekake.zzzmisa.com/tags/umeda/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://odekake.zzzmisa.com/tags/umeda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aging fish restaurant Tai-no-tai</title>
       <link>https://odekake.zzzmisa.com/tai-no-tai/</link>
