@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Night View on Misa's Odekake Blog</title><link>https://odekake.zzzmisa.com/tags/night-view/</link><description>Recent content in Night View on Misa's Odekake Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 20 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://odekake.zzzmisa.com/tags/night-view/index.xml" rel="self" type="application/rss+xml"/><item><title>Amagasaki Factory Night View</title><link>https://odekake.zzzmisa.com/amagasaki-factory-night-view/</link><pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate><guid>https://odekake.zzzmisa.com/amagasaki-factory-night-view/</guid><description>I went to a photo shoot at a factory in Amagasaki tonight. If you search on the internet, you will be able to see more photos with cool, stunning views. However, they just make a good shot! In fact the scenery was not as glittering as the typical photos. I also did my best to take the sparkling photos.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Night View on Misa&#39;s Odekake Blog</title>
+    <link>https://odekake.zzzmisa.com/tags/night-view/</link>
+    <description>Recent content in Night View on Misa&#39;s Odekake Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://odekake.zzzmisa.com/tags/night-view/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amagasaki Factory Night View</title>
+      <link>https://odekake.zzzmisa.com/amagasaki-factory-night-view/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://odekake.zzzmisa.com/amagasaki-factory-night-view/</guid>
+      <description>I went to a photo shoot at a factory in Amagasaki tonight. If you search on the internet, you will be able to see more photos with cool, stunning views. However, they just make a good shot! In fact the scenery was not as glittering as the typical photos. I also did my best to take the sparkling photos.</description>
+    </item>
+  </channel>
+</rss>
