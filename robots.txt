@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://odekake.zzzmisa.com/sitemap.xml
